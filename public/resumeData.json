@@ -1,16 +1,16 @@
 {
   "main": {
     "name":"Rachael Gunter",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Software engineer with a proclivity for client facing roles",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I spent 12+ years in the beauty industry mastering the art of client finesse. Switching careers to the tech industry has brought me nothing but happiness. As a software engineer with an affinity for working with clients face to virtual face, I interpret the best of tech world to customers far and wide.   ",
+    "contactmessage":"Drop me a line if you feel so inclined!",
     "email": "rachaelegunter@gmail.com",
     "github":"https://github.com/rachaelgunter",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "city":"NYC"},
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.rachaelgunter.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -31,14 +31,8 @@
       {
         "school":"Hackbright Academy",
         "degree":"Software Engineering Fellowship",
-        "graduated":"Spring 2021",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"March 2021",
+        "description":"Accelerated, 12 week, software engineering program"
       }
     ],
     "work":[
@@ -52,7 +46,7 @@
         "company":"Moove.ai",
         "title":"Software Engineer",
         "years":"Fall 2021 - Spring 2022",
-        "description":"Describe wong e"
+        "description":"Updated, modified, and maintained existing programming while resolving technical problems and improving performance for users."
       }
     ],
     "skills":[
@@ -77,18 +71,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
@@ -111,19 +93,9 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"06.jpg",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
+      }
+    ],
+    "websites": [
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
